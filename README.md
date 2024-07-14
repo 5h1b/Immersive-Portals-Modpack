@@ -2,4 +2,4 @@ This is the Immersive Portals Modpack GitHub, this pack supports Packwiz, MultiM
 ### Links:
 [Moddermore](https://moddermore.net/list/MuN_1o9rKeTP)
 [Modrinth](https://modrinth.com/modpack/immersiveportalsmodpack)
-[Curseforge](https://www.curseforge.com/minecraft/modpacks/) -- NOT READY
+[Curseforge](https://legacy.curseforge.com/minecraft/modpacks/immersive-portals-addons-modpack) -- NOT READY
