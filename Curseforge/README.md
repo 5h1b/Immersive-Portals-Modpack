@@ -1,1 +1,1 @@
-
+This is for Curseforge's ZIP File system
